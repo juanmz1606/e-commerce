@@ -1,0 +1,11 @@
+{
+    "db-connections":{
+        "mongodb": {
+            "host": "cluster0.bwi6g.mongodb.net",
+            "user": "e_commerce_user",
+            "password": "eYVxh3VIEWLVEUve",
+            "dbname": "eCommerce"
+        }
+    },
+    "server-port": 3000
+}
